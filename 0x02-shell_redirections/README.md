@@ -18,3 +18,4 @@ Display lines containing the pattern “root” and 3 lines after them in the fi
 Display all lines of the file /etc/ssh/sshd_config starting with a letter
 Replace all characters A and c from input to Z and e respectively
 Without C, you would live in hiago
+A script that reverse its input
